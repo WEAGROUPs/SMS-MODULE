@@ -19,6 +19,7 @@ if (isset($_GET['from']) && isset($_GET['message']) && isset($_GET['time']) ) {
       //send this if the sms has been recieved by the script
 
      
+     
 
   else {
       
