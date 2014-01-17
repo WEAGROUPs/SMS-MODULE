@@ -19,6 +19,7 @@
 
         }
 
+       //Function for getting user's name
         public function getname(){
         	//return $this->msg;
         	return $this->phone;
