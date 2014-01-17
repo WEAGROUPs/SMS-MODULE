@@ -1,8 +1,9 @@
-
 <?php  include("config.php"); 
 
    class ialert
    {
+      
+      //Variables for user info
        protected $msg;
        protected $phone;
        protected $time;
